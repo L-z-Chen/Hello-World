@@ -1,8 +1,8 @@
 # Hello-World
 My test &amp; small jobs
 Some of these pprograms are written in Python or C or C#.
-##01: Using simplex method to solve linear optimal problem:
-    this is the input demo or so called instructions:
+##01: Using simplex method to solve linear optimal problem(helloword.cpp& helloword. exe):
+    this is the input demo or so called instructions with program results :
     Read me
 Before using this program, you should make sure that the problem is 'maximum' form and all the constrains are equation form.One line
 one contraint.And the last line of the coefficient matrix is belong to objective function.
@@ -67,3 +67,5 @@ x3 = 2
 x2 = 6
 x1 = 2
 Already optimal
+##02: matrix inverse.cpp
+##03: solve heat conduction problem
