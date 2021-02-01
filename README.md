@@ -65,5 +65,6 @@ x3 = 2
 x2 = 6  
 x1 = 2  
 Already optimal  
-## 02: matrix inverse.cpp  
-## 03: solve heat conduction problem  
+## Related files:
+02: matrix inverse.cpp    
+03: solve heat conduction problem    
